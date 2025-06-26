@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nome": "Sorvete de Morango",
+    "preco": 9.50,
+    "img":"morango.jpg"
+  },
+  {
+    "id": 2,
+    "nome": "Chocolate Belga",
+    "preco": 10.90,
+    "img":"choco.jpg"
+  },
+  {
+    "id": 3,
+    "nome": "Baunilha com Cookies",
+    "preco": 11.00,
+    "img": "bau.jpg"
+  },
+  {
+    "id": 4,
+    "nome": "Menta com Chocolate",
+    "preco": 10.50,
+    "img": "menta.jpg"
+  },
+  {
+    "id": 5,
+    "nome": "Pistache",
+    "preco": 12.00,
+    "img": "pistache.jpg"
+  }
+]
